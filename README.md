@@ -1,5 +1,5 @@
 # fastMPRG
-Hi， this is the homepage for our final project "fastMPRG": A packages to generate pseudo random numbers under certain correlation structure.
+Hi， this is the homepage for our final project "fastMPRG": A package to generate pseudo random numbers under certain correlation structure.
 
 This repository includes:
 
